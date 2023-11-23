@@ -1,6 +1,8 @@
 
 # Acceptez les paiements avec Stripe Checkout en utilisant PHP
 
+Cette intégration vous montre comment accepter les paiements avec [Stripe Checkout](https://stripe.com/docs/payments/checkout) .
+
 Cet exemple de serveur contient à la fois les parties client et serveur nécessaires pour mettre en place une intégration Checkout.
 
 ![home](https://github.com/SamM-64/stripe-prebuilt-checkout-page-php/assets/71389760/39293db8-506b-4306-acb2-9182b8147f4b)
@@ -94,6 +96,6 @@ Vous devriez voir les événements enregistrés dans la console sur laquelle la 
 
 
 5. Page de paiement
-La démo s'exécute en mode test : utilisez un  numéro de carte de  [test](https://example.com/). avec n'importe quel CVC + date d'expiration future.
+La démo s'exécute en mode test : utilisez un  numéro de carte de  [test](https://stripe.com/docs/testing#cards) avec n'importe quel CVC + date d'expiration future.
 
 
