@@ -1,8 +1,9 @@
+
 # Acceptez les paiements avec Stripe Checkout en utilisant PHP
 
 Cet exemple de serveur contient à la fois les parties client et serveur nécessaires pour mettre en place une intégration Checkout.
 
-![Managed kubernetes service](./public/assets/home.png)
+![home](https://github.com/SamM-64/stripe-prebuilt-checkout-page-php/assets/71389760/39293db8-506b-4306-acb2-9182b8147f4b)
 
 ## Prérequis
 
