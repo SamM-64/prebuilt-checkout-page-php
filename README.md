@@ -27,6 +27,9 @@ https://stripe.com/docs/stripe-cli
 
 2. Créez un prix
 
+https://stripe.com/docs/api/prices/create?lang=php
+
+
 Vous pouvez créer des produits et des prix dans le tableau de bord ou avec l'API. Cet exemple nécessite l'exécution d'un prix. Une fois que vous avez créé un prix et ajoutez son identifiant à votre .env.
 
 PRICE est l'ID d'un prix pour votre produit. Un prix a un montant unitaire et une devise.
@@ -66,6 +69,7 @@ Prenez le Price ID, dans le cas d'exemple price_1Hh1ZeCZ6qsJgndJaX9fauRl, et dé
 ```bash
 PRICE=price_1Hh1ZeCZ6qsJgndJaX9fauRl
 ```
+
 Installez les dépendances avec Composer
 
 Depuis le répertoire qui contient composer.json, exécutez :
