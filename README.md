@@ -98,4 +98,7 @@ Vous devriez voir les événements enregistrés dans la console sur laquelle la 
 5. Page de paiement
 La démo s'exécute en mode test : utilisez un  numéro de carte de  [test](https://stripe.com/docs/testing#cards) avec n'importe quel CVC + date d'expiration future.
 
+![Payment](https://github.com/SamM-64/stripe-prebuilt-checkout-page-php/assets/71389760/d1b957b0-62c5-436e-b08f-aafc12ba1dbe)
+
+
 
