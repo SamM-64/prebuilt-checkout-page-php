@@ -1,0 +1,13 @@
+{
+  "name": "accept-a-payment",
+  "configureDotEnv": true,
+  "integrations": [
+    {
+      "name": "prebuilt-checkout-page",
+      "clients": ["html"],
+      "servers": [
+        "php"
+      ]
+    }
+  ]
+}
